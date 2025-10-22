@@ -11,7 +11,7 @@ Navigate to the PyTRiP folder \
     ```cd TRiP/code/PyTRiP/``` 
 
 Install the required packages \
-    ```pip install -r requirements.txt```
+    ```python3 -m pip install -r requirements.txt```
 
 Run the program \
     ```python3 TRiP.py -d <input directory> -e <image extension> -c <txt crop file> -mt <True/False> -m <True/False> -s <start image> -f <final image>``` 
